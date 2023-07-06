@@ -1,6 +1,8 @@
 # CANCER DETECTION
 
-I have used various machine learning algorithm to predict the type of cancer(Malignant and Benign) in Patients to identify the accurate result for prediction as Mr. John Hughes suggested that a neural network is the best choice to detect the cancer. I have compared the results of neural network and Decision tree algorithm with the logistic regression algorithm.
+I have used various machine learning algorithm to predict the type of cancer(Malignant and Benign) in Patients. I have compared the results of neural network and Decision tree algorithm with the logistic regression algorithm.
+
+Here, Mr. John Hughes suggested that a neural network is the best choice to detect the cancer.
 
 ### SUMMARY OF KEY FINDINGS 
 
