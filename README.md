@@ -6,7 +6,7 @@ I have used various machine learning algorithm to predict the type of cancer(Mal
 
 1. Key Statistics </br>
 2. Implemented and evaluated different algorithms </br>
-3. compared the results of final NN algo to the Logistic regression algo given below output </br>
+3. compared the results of final NN algo to the Logistic regression algo with below given output </br>
 
 ![LL](https://github.com/jhanvikamani/Python-Project-for-Cancer-Detection/assets/49193372/84000251-3067-45fc-be6f-7e3b2da2219e)
 
